@@ -37,7 +37,7 @@ app.set("view engine", "handlebars");
 // Applying session middleware with a different session object
 app.use(
   session({
-    secret: process.env.SECRET,
+    secret: process.env.SESSIONSECRET,
     store: new SequelizeStore({ db: sequelize }),
     resave: false,
     saveUninitialized: false,

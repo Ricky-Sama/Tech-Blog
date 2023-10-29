@@ -10,7 +10,7 @@
 * [Contact-Me](#contact)
 * [Contributors](#contributors)
 * [Testing](#testing)
-* [Demo](#demo)
+* [Application](#application)
 * [License](#license)
 
 ## Usage
@@ -19,6 +19,10 @@ Users will be able to sign up with their log-in information and start posting!
 ## Mock-Up
 The following image shows the command-line application's appearance and functionality:
 ![screenshot of application]()
+
+## Application
+
+Please click on the [link](https://rs-tech-blog-ff26cfc66031.herokuapp.com/) to visit the Tech Blog application. 
 
 ## Contact
 * Name - Ricardo Scuotto

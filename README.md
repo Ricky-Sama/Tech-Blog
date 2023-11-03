@@ -18,7 +18,7 @@ Users will be able to sign up with their log-in information and start posting!
 
 ## Mock-Up
 The following image shows the command-line application's appearance and functionality:
-![screenshot of application]()
+![screenshot of application](./public/screenshot/Tech-s-Tech-Blog.png)
 
 ## Application
 

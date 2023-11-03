@@ -3,7 +3,7 @@
 ![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Description
- This Tech Blog will allow users to publish their blog posts and comment on other developers' posts as well.
+ This Tech Blog will allow users to publish their blog posts and comment on other developers' posts as well. This app applies the MVC (Model View Controller) design pattern which are built to handle specific development aspects of the application. This app will be utilizing Handlebars, Sequelize, and Express-Session for functionality. 
 
 ## Table of Contents
 * [Usage](#usage)
@@ -15,7 +15,6 @@
 
 ## Usage
 Users will be able to sign up with their log-in information and start posting! 
-
 ## Mock-Up
 The following image shows the command-line application's appearance and functionality:
 ![screenshot of application](./public/screenshot/Tech-s-Tech-Blog.png)
